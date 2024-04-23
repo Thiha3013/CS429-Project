@@ -1,4 +1,4 @@
-.scraper
-.env
+scraper
+env
 index.pkl
 output.json
