@@ -1,0 +1,4 @@
+.scraper
+.env
+index.pkl
+output.json
